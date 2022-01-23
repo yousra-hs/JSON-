@@ -1,0 +1,178 @@
+[
+    {
+            
+    
+    "id" : "1", 
+    "Designation" : "coco channel",
+    "price" : 200,
+    "category" : "Women perfumes",
+    "disponible" :["Tangier" , "Casablanca" , "Rabat"] , 
+    "fournisseur" : {
+        "reseausocial" : "perfumes", 
+        "adress" : "tangier"
+    }
+    
+        },
+    
+    {
+    
+    "id" : "2", 
+    "Designation" : "Miss Dior",
+    "price" : 400,
+    "category" : "Women perfumes",
+    "disponible" : ["Tangier" , "Casablanca" , "Rabat"] , 
+    "fournisseur" : {
+        "reseausocial" : "perfumes", 
+        "adress" : "tangier"
+    }
+    
+        },
+        {
+    
+    "id" : "3", 
+    "Designation" : "Black Opium",
+    "price" : 200,
+    "category" : "Women perfumes",
+    "disponible" : ["Tangier" , "Casablanca" , "Rabat"] ,
+    "fournisseur" : {
+        "reseausocial" : "perfumes", 
+        "adress" : "tangier"
+    }
+    
+        },{
+    
+    "id" : "4", 
+    "brand" : "Flowerbomb",
+    "price" : 200,
+    "category" : "Women perfumes",
+    "disponible" :["Tangier" , "Casablanca" , "Rabat"] ,
+    "fournisseur" : {
+        "reseausocial" : "perfumes", 
+        "adress" : "tangier"
+    }
+    
+        }
+    
+    ,{
+    
+    "id" : "5", 
+    "Designation" : "Si",
+    "price" : 200,
+    "category" : " Women perfumes",
+    "disponible" :["Tangier" , "Casablanca" , "Rabat"] ,
+    "fournisseur" : {
+        "reseausocial" : "perfumes", 
+        "adress" : "tangier"
+    }
+    
+        },{
+    
+    "id" : "6", 
+    "Designation" : "Prada",
+    "price" : 200,
+    "category" : " Women perfumes",
+    "disponible" : ["Tangier" , "Casablanca" , "Rabat"] ,
+    "fournisseur" : {
+        "reseausocial" : "perfumes", 
+        "adress" : "tangier"
+    }
+    
+        },{
+    
+    "id" : "7", 
+    "Designation" : "Tom Ford black Orchid ",
+    "price" : 200,
+    "category" : " Men's perfumes",
+    "disponible" : ["Tangier" , "Casablanca" , "Rabat"] , 
+    "fournisseur" : {
+        "reseausocial" : "perfumes", 
+        "adress" : "tangier"
+    }
+    
+        },{
+    
+    "id" : "8", 
+    "Designation" : "Dior Sauvage",
+    "price" : 200,
+    "category" : "Men's perfume",
+    "disponible" :["Tangier" , "Casablanca" , "Rabat"] , 
+    "fournisseur" : {
+        "reseausocial" : "perfumes", 
+        "adress" : "tangier"
+    }
+    
+        },{
+    
+    "id" : "9", 
+    "Designation" : "Chanel blue",
+    "price" : 200,
+    "category" : " Men's perfumes",
+    "disponible" :["Tangier" , "Casablanca" , "Rabat"] ,
+    "fournisseur" : {
+        "reseausocial" : "perfumes", 
+        "adress" : "tangier"
+    }
+    
+        },{
+    
+    "id" : "10", 
+    "Designation" : "Boss",
+    "price" : 200,
+    "category" : "Men's perfumes",
+    "disponible" : ["Tangier" , "Casablanca" , "Rabat"] ,
+    "fournisseur" : {
+        "reseausocial" : "perfumes", 
+        "adress" : "tangier"
+    }
+    
+        },{
+    
+    "id" : "11", 
+    "Designation" : "Jo Malone",
+    "price" : 200,
+    "category" : "Men's perfumes",
+    "disponible" : ["Tangier" , "Casablanca" , "Rabat"] , 
+    "fournisseur" : {
+        "reseausocial" : "perfumes", 
+        "adress" : "tangier"
+    }
+    
+        },{
+    
+    "id" : "12", 
+    "Designation" : "Paco Rabanne",
+    "price" : 200,
+    "category" : "Men's perfumes",
+    "disponible" :["Tangier" , "Casablanca" , "Rabat"] ,
+    "fournisseur" : {
+        "reseausocial " : "perfumes", 
+        "adress" : "tangier"
+    }
+    
+        },{
+    
+    "id" : "13", 
+    "Designation" : "Ambre ",
+    "price" : 200,
+    "category" : "Men's perfumes",
+    "disponible" :["Tangier" , "Casablanca" , "Rabat"] ,
+    "fournisseur" : {
+        "reseausocial" : "perfumes", 
+        "adress" : "tangier"
+    }
+    
+        },{
+    
+    "id" : "14", 
+    "designation" : "Aventus by Creed",
+    "price" : 200,
+    "category" : "Men's perfumes",
+    "disponible" : ["Tangier" , "Casablanca" , "Rabat"] , 
+    "fournisseur" : {
+        "reseausocial" : "perfumes", 
+        "adress" : "tangier"
+    }
+    
+        }
+    
+    ]
